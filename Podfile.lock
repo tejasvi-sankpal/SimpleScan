@@ -1,0 +1,20 @@
+PODS:
+  - CLImageEditor (0.1.8):
+    - CLImageEditor/Core (= 0.1.8)
+  - CLImageEditor/Core (0.1.8)
+  - Onboard (2.3.1)
+  - TesseractOCRiOS (4.0.0)
+
+DEPENDENCIES:
+  - CLImageEditor
+  - Onboard
+  - TesseractOCRiOS (= 4.0.0)
+
+SPEC CHECKSUMS:
+  CLImageEditor: 0d4d5a14aa317c097418b05b5736fec4b8a90dcf
+  Onboard: b6871f25ac753175b2ab9a362fb2feb26a81a311
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
+
+PODFILE CHECKSUM: ac8f55fd26fbc899174ccd8da6d427643c970af0
+
+COCOAPODS: 1.1.1
